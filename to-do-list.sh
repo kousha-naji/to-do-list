@@ -1,6 +1,5 @@
 #! /bin/bash
 
-echo "Hello"
 option1="0" # Default value for task done or not
 option2=""  # Default value for task title
 option3="L" # Default value for task priority
